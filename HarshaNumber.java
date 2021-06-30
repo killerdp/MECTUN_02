@@ -1,9 +1,8 @@
-  
 class Main  
 {  
 public static void main(String arg[])  
 {  
-int num=156;
+int num=148;
 int rem=0,sum=0,n;
 n=num;
 while(num>0)
